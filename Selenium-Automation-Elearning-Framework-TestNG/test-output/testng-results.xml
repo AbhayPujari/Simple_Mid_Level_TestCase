@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34554" started-at="2019-09-12T19:14:05Z" finished-at="2019-09-12T19:14:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34554" started-at="2019-09-12T19:14:05Z" finished-at="2019-09-12T19:14:40Z">
+      <class name="com.training.sanity.tests.LoginTests">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.LoginTests@4cdbe50f]" name="setUpBeforeClass" is-config="true" duration-ms="17" started-at="2019-09-13T00:44:05Z" finished-at="2019-09-13T00:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.LoginTests@4cdbe50f]" name="setUp" is-config="true" duration-ms="14139" started-at="2019-09-13T00:44:05Z" finished-at="2019-09-13T00:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RegisterNewUser()[pri:0, instance:com.training.sanity.tests.LoginTests@4cdbe50f]" name="RegisterNewUser" duration-ms="18616" started-at="2019-09-13T00:44:19Z" finished-at="2019-09-13T00:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterNewUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.LoginTests@4cdbe50f]" name="tearDown" is-config="true" duration-ms="1768" started-at="2019-09-13T00:44:38Z" finished-at="2019-09-13T00:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.LoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
